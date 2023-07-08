@@ -1,0 +1,17 @@
+@import url('../blocks/body_content/body_content.css');
+
+@import url('../css/normalize.css');
+
+@import url('../blocks/header/header.css');
+@import url('../blocks/header/header__menu/header__menu.css');
+@import url('../blocks/header/__logo/header__logo.css');
+@import url('../blocks/header/header__menu/menu/menu.css');
+
+/* @import url('../blocks/tur/tur.css');
+@import url('../blocks/tur/__italy/tur__italy.css');
+@import url('../blocks/tur/__kuba/tur__kuba.css');
+@import url('../blocks/tur/__maldiv/tur__maldiv.css'); */
+
+@import url('../blocks/content/content.css');
+@import url('../blocks/content/__travel/content__travel.css');
+@import url('../blocks/content/__fact/content__fact.css');
