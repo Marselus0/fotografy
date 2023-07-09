@@ -1,8 +1,7 @@
 .body_content {
     max-width: 984px;
-    /* height: 680px; */
     width: 100px;
     height: 100px;
-    background: bisque url(../../img/sklony-gor-uzbekistana.jpg);
-    background-size: 100%;
+    background: rgb(252, 190, 113) url(../../img/sklony-gor-uzbekistana.jpg);
+    background-size: 120%;
 }
