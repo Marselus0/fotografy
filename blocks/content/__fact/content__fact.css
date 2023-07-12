@@ -1,11 +1,11 @@
 .content__fact {
-    width: 490px;
-    height: 66px;
-    top: 400px;
+    width: 500px;
+    height: 10px;
+    top: 300px;
     left: 176px;
     color: white;
     text-decoration: none;
-    margin: 60px 0px 100px;
+    margin: 60px 0px 60px;
 
 
     margin-block-start: 0;
