@@ -21,3 +21,6 @@
 @import url('../blocks/search/search-here/search-here.css');
 
 @import url('../blocks/subtitle/subtitle.css');
+
+@import url('../blocks/photoblocks/photoblocks.css');
+@import url('../blocks/photoblocks/__photo/photoblocks__photo.css');
