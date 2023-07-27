@@ -6,3 +6,12 @@
     text-decoration: none;
     color: #d5e5f1;
 }
+
+@media screen and (min-width:320px) and (max-width:798px) {
+    .header {
+        align-items: center;
+        text-decoration: none;
+        color: #d5e5f1;
+        display: block;
+    }
+}
