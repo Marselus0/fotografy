@@ -24,3 +24,5 @@
 
 @import url('../blocks/photoblocks/photoblocks.css');
 @import url('../blocks/photoblocks/__photo/photoblocks__photo.css');
+
+@import url('../css/info.css');

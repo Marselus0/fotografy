@@ -1,7 +1,8 @@
 .body_content {
     max-width: 1280px;
-    width: 100px;
-    height: 100px;
+    width: 100%;
     background: rgb(252, 190, 113) url(../../img/sklony-gor-uzbekistana.jpg);
     background-size: 120%;
+    background-attachment: fixed;
+    font-style: oblique;
 }
